@@ -1,0 +1,368 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    
+    
+}
+header{
+    width: ;
+}
+ .logo{
+     width: 40%;
+     float: left;
+     margin-top: 31px;
+     margin-bottom: 31px;
+     
+
+ }
+ .logo img{
+
+ }
+ .menu{
+     width: 60%;
+     float: left;
+     margin-top: 31px;
+     margin-bottom: 31px;
+     
+
+ }
+
+ .menu nav{
+
+ }
+
+.menu nav ul{
+
+}
+.menu nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(104, 104, 104);
+    
+}
+.menu nav ul li a{
+
+}
+
+/* banner-section */
+
+.Banner{ 
+    background: url(../img/01.\ Strict.jpg);
+    width: 100%;
+    float: left; 
+    background-size: cover;
+
+
+}
+
+.banner-main{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 220px;
+    text-align: center;
+
+}
+.banner-main h2{
+    font-size: 120px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    
+}
+.banner-main span{
+    border: 1px solid #15a5fa;
+    display: block;
+    margin-top: 34px;
+}
+
+.banner-main p{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #fff;
+}
+.banner-btn{
+    margin-top: 66px;
+    padding: 20px 22px;
+    font-size: 18px;
+    border-radius:6px  ;
+    border: 1px solid #15a5fa;
+    cursor: pointer;
+    color: #fff;
+    background: transparent;
+    margin-bottom: 178px;
+    transition: 0.6s ease-in-out;
+
+}
+.banner-btn:hover{
+    background: #15a5fa;
+
+}
+
+.bannder-icon{
+
+
+}
+
+.fa.fa-chevron-down{
+    color: #fff;
+    font-size: 35px;
+    margin-bottom: 91px;
+    font-weight: 300;
+  
+
+}
+
+/* design section */
+
+.design{
+    width: 100%;
+    float: left;
+    background: #f5f9fa;
+    
+}
+
+.design-text h2{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    color: #2d3950;
+ 
+    
+}
+.design-text p{
+    text-align: center;
+    margin-top: 38px;
+    margin-bottom: 113px;
+    color: #9f9f9f;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.3;
+}
+
+
+/* feapuri section */
+
+.feapuri-section{
+    width: 100%;
+    float: left
+}
+
+.fq1{
+    width: 33.33%;
+    float: left;
+
+}
+
+.fq1 img{
+    margin: 0 auto;
+    display: block;
+    margin-top: 66px;
+
+}
+.fq1 h3{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #2d3950;
+}
+.fq1 p{
+    margin-top: 25px;
+    text-align: center;
+    font-size: 12pt;
+    color: #9f9f9f;
+    margin-bottom: 144px;
+    font-family: 'Lato', sans-serif;
+    
+
+}
+
+/* portfolew section */
+.pf{
+    width: 100%;
+    float: left;
+    background: #f6f9f9
+}
+.pf-text h1{
+    margin-top: 80px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 41px;
+    color: #183c52;
+
+    
+}
+.pf-text p{
+    margin-top:32px;
+    text-align: center;
+    color: #9f9f9f;
+    font-size: 15px;
+
+}
+.pf-img{
+    width: 100%;
+    float: left;
+
+}
+.pfd-img-1{
+    width: 380px;
+    margin-top: 80px;
+    float: left;
+
+}
+
+.pf-img-two{
+    width: 100%;
+    float: left;
+}
+.pfd-img-2{
+    width: 380px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 115px;
+
+}
+
+/* massege section  */
+
+.mass-section{
+    background: url(../img/road.jpg);
+    
+    width: 100%;
+    float: left;
+    background-size: cover;
+
+}
+.masse-text h1{
+    margin-top: 74px;
+    text-align: center;
+    font-size: 41pt;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+   
+}
+.masse-text p{
+    text-align: center;
+    margin-top: 23px;
+    font-size: 15px;
+    color: #fff;
+
+}
+.full-name{
+    margin: 54px auto;
+    margin-bottom: 0px;
+    display: block;
+    width: 555px;
+    padding: 22px;
+    background: none;
+    border: 1px solid #818994;
+    border-radius: 4px;
+    
+}
+.Email-Address{
+    margin: 21px auto;
+    display: block;
+    width: 555px;
+    padding: 22px;
+    background: none;
+    border: 1px solid #818994;
+    border-radius: 4px;
+
+    
+}
+.massege{
+    margin: 21px auto;
+    display: block;
+    width: 555px;
+    padding: 22px;
+    background: none;
+    border: 1px solid #818994;
+    border-radius: 4px;
+    height: 160px;
+
+}
+
+.checkbox{
+    margin-top: 35px;
+    margin-left: 269px;
+    margin-right: 11px;
+    background-color: #9aa0a9;
+}
+span{
+    color: #9f9f9f;
+    font-family: 'Lato', sans-serif;
+}
+.masse-btn{
+    padding: 15px 60px;
+    margin-left: 245px;
+    margin-bottom: 110px;
+    font-size: 20px;
+    background: transparent;
+    border: 1px solid #15a4f4;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.6s ease-in-out;
+}
+.masse-btn:hover{
+    background: #15a4f4;
+}
+
+/* footer section */
+
+.footer{
+    width: 100%;
+    float: left;
+    background: #f5f9fa;
+
+}
+.footer-text{
+    width: 60%;
+    float: left;
+    
+}
+.footer-text h2{
+    font-size: 15px;
+    color: #999999;
+    margin-left: 222px;
+    margin-top: 38px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+.footer-icon{
+    width: 40%;
+    float: left;
+}
+.footer-icon nav ul{
+    margin-top: 38px;
+    list-style: none;
+
+}
+.footer-icon nav ul li{
+    display:inline-block ;
+    margin-bottom: 25px;
+    
+}
+.footer-icon nav ul li a{
+    background: #16a4f4;
+    padding: 12px 16px;
+    border-radius: 4px;
+    color: #fff;
+    margin-left: 7px;
+    margin-bottom: 25px;
+    transition: 0.4s ease-in-out;
+}
+
+
+
+
+
+
